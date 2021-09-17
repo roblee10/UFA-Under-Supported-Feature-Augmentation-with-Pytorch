@@ -1,6 +1,6 @@
 # UFA-Under-Supported-Feature-Augmentation-with-Pytorch
 
-### 1. Dataset Download
+## Dataset Download
 
 The downloaded dataset should be placed in the path specified below.
 
@@ -26,7 +26,7 @@ The downloaded dataset should be placed in the path specified below.
 
 </br>
 
-### 2. Pre-trainin Model
+## Pre-trainin Model
 
 #### - MiniImageNet
 
@@ -42,7 +42,7 @@ python ./src/train.py -c ./configs/pretrain_tiered.config
 
 </br>
 
-### 3. Evaluate
+## Evaluate
 
 #### -MiniImageNet
 
